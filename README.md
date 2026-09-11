@@ -7,3 +7,5 @@ Personal GitHub — David Mannies
 Check out my Arcade hub with Yacht, Sudoku, Blackjack, Triple Card Poker, and 100+ solitaire games.
 
 Everyone is invited to play at [dmannies.org/Arcade](https://dmannies.org/Arcade).
+
+Resume and portfolio at [altrealtech.com](https://altrealtech.com/).
